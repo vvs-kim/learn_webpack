@@ -1,2 +1,8 @@
 import "./styles.scss";
-console.log("hello dylan");
+const text = "hello dylan";
+
+const consoleText = (str) => {
+  console.log(str);
+};
+
+consoleText(text);
