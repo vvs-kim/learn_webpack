@@ -1,1 +1,1 @@
-# webpack_coding_gym
+# webpack 초기 설정 
